@@ -3,12 +3,12 @@
 Here's the link for the [freeCodeCamp curriculum](https://www.freecodecamp.org/learn/)
 
 # Contributing to this repo 
-We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
+We love your input! We want to make contributing to this project as easy and as transparent as possible, whether it's:
 
 - Reporting a bug
 - Discussing the current state of the code
 - Submitting a fix
-- Proposing soluctions with beter time/space complexity
+- Proposing solutions with better time/space complexity
 - Becoming a maintainer
 
 
@@ -20,7 +20,7 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 3. Make required changes and commit them using:
 4. Make sure your code lints.
 5.     git add filename
-       git commit -m "Bried description about your PR"
+       git commit -m "Brief description about your PR"
        git push origin 
 6. Issue that pull request!
 
